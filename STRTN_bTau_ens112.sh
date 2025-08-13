@@ -1,4 +1,5 @@
 #!/bin/bash
+# Modified from STRTN.sh at https://github.com/gyazgeldi/STRTN
 
 PROGNAME="$( basename $0 )"
 
